@@ -1,0 +1,36 @@
+body {
+    background-color: #EEEEEE;
+    margin: 40px auto;
+    max-width: 65%;
+    line-height: 1.6;
+    font-size: 17px;
+    color: #444;
+    padding: 0 10px;
+    font-family: sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+h1, h2, h3 {
+    line-height: 1.2;
+}
+
+a {
+    text-decoration: none;
+}
+
+.indent {
+    text-indent: 1em;
+}
+
+#header {
+    font-size: 30px;
+}
+
+#header a {
+    color: #444
+}
+
+#header img {
+    vertical-align: middle;
+}
+
